@@ -12,8 +12,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-  platforms:
-    plugin:
+  plugin:
+    platforms:  
       android:
         package: com.lykhonis.simpleimagecrop
         pluginClass: SimpleImageCropPlugin
